@@ -15,6 +15,7 @@ public class Student {
     private String name;
     private int ID;
     private String program;
+    private String status;
 
     public String getProgram() {
         return program;
